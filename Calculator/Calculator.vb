@@ -4,9 +4,18 @@
 'OperatorsExample
 'https://github.com/JaceFoxman/Calculator.git
 
+Option Explicit On
+Option Strict On
+
+
+Imports System.Runtime.Remoting.Services
+
 Module Calculator
 
     Sub Main()
+
+
+
 
     End Sub
 
